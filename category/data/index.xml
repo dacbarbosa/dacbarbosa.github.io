@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data | Daniel AC Barbosa</title>
+    <link>https://dacbarbosa.github.io/category/data/</link>
+      <atom:link href="https://dacbarbosa.github.io/category/data/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dacbarbosa.github.io/media/logo_hua57935b47365952e8336fb6ffe88eeef_20062_300x300_fit_lanczos_3.png</url>
+      <title>Data</title>
+      <link>https://dacbarbosa.github.io/category/data/</link>
+    </image>
+    
+    <item>
+      <title>Data</title>
+      <link>https://dacbarbosa.github.io/data_section/</link>
+      <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://dacbarbosa.github.io/data_section/</guid>
+      <description>&lt;p&gt;Under Construction&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
