@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Daniel AC Barbosa</title>
+    <link>https://dacbarbosa.github.io/working_papers/</link>
+      <atom:link href="https://dacbarbosa.github.io/working_papers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dacbarbosa.github.io/media/logo_hua57935b47365952e8336fb6ffe88eeef_20062_300x300_fit_lanczos_3.png</url>
+      <title>Publications</title>
+      <link>https://dacbarbosa.github.io/working_papers/</link>
+    </image>
+    
+    <item>
+      <title>De-escalation technology - The impact of body-worn cameras on citizen-police interactions</title>
+      <link>https://dacbarbosa.github.io/working_papers/body-worn-cameras/</link>
+      <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://dacbarbosa.github.io/working_papers/body-worn-cameras/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;We provide experimental evidence that monitoring of the police activity through body-worn cameras reduces use-of-force, handcuffs and arrests,and enhances criminal reporting. Stronger treatment effects occur on events classified &lt;em&gt;ex-ante&lt;/em&gt; of low seriousness. Monitoring effects are moderated by officer rank, which is consistent with a career concern motive by junior officers. Overall, results show that the use of body-worn cameras de-escalates conflicts.&lt;/p&gt;
+&lt;p&gt;XXX Paper summary to be written XXX&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
