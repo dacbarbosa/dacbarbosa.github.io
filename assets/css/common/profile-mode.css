@@ -6,8 +6,9 @@
 .main .profile {
     align-items: center;
     min-height: calc(100vh - var(--footer-height) - (var(--gap) * 2));
-    font-size: var(--homesize);
-    line-height: var(--lineheight);
+    /* font-size: var(--homesize); */
+    font-size: 16px;
+    line-height: 2.00; /* Change line spacing */
 }
 
 .profile .profile_inner {

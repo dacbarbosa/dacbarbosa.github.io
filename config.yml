@@ -49,7 +49,11 @@ params:
     profileMode:
           enabled: true
           title: Daniel A.C. Barbosa
-          subtitle: "I am a third year PhD (DPhil) student in Economics at the University of Oxford and Nuffield College. My research interests lie in macroeconomics and trade, with an emphasis on climate change."
+          subtitle: "I am a PhD (DPhil) student in Economics at the University of Oxford and Nuffield College. \n
+
+          My research interests lie on macroeconomics and trade, with an emphasis on climate change. \n
+
+          \n Email: daniel [dot] barbosa [at] economics [dot] ox [dot] ac [dot] uk"
           imageUrl: "picture-dacb.jpg"
           imageWidth: 160
           imageHeight: 160
