@@ -8,7 +8,7 @@
     --radius: 8px;
     --theme: rgb(255, 255, 255);
     --entry: rgb(255, 255, 255);
-    --primary: rgb(30, 30, 30);
+    --primary: #002147;
     --secondary: rgb(108, 108, 108);
     --tertiary: rgb(214, 214, 214);
     --gray: rgb(165, 165, 165);
@@ -19,6 +19,8 @@
     --darkpurple: #8e7bd0;
     --midpurple:#c0b5e5;
     --lightpurple: #e5e1f4;
+    --oxfordblue: #002147;
+    --nuffieldgreen: #0cb38b;
     --semibold: 500;
     --homesize: 16px;
     --textsize: 18px;

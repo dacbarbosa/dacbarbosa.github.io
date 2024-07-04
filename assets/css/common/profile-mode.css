@@ -13,16 +13,16 @@
 .profile .profile_inner {
     display: flex;
     flex-direction: column;
-    align-items: center;
-    gap: 10px;
+    align-items: left; /* Change main page alignment */
+    gap: 30px;
 }
 
 .profile .profile_inner h1 {
-    font-size: 40px;
+    font-size: 40px; /* Change Font Display of Name*/
 }
 
 .profile img {
-    border-radius: 50%;
+    border-radius: 10%; /* This changes the picture border - 0 is full square, 100% is circle*/
     border: 1px solid rgb(207, 207, 207);
 }
 
@@ -44,5 +44,5 @@
 }
 
 .button:hover {
-    background: var(--midpurple);
+    background: var(--nuffieldgreen);
 }
