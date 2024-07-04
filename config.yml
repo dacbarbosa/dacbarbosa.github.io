@@ -11,25 +11,25 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
+        # - name: Books
+        #   url: books/
+        #   weight: 5 
+        - name: Research
           url: papers/
           weight: 2
-        - name: Courses
-          url: courses/
-          weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+        # - name: Courses
+        #   url: courses/
+        #   weight: 3
+        # - name: Data
+        #   url: data/
+        #   weight: 4 
+        # - name: Blog
+        #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+        #   weight: 6
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
-    author: Moritz-Maria von Igelfeld
+    description: "I am an Economics PhD student at the University of Oxford. My research interest lies on macroeconomics and climate change."
+    author: Daniel AC Barbosa
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -55,24 +55,24 @@ params:
     profileMode:
           enabled: true
           title: Daniel A.C. Barbosa
-          subtitle: "I am a third year PhD (DPhil) student in Economics at the University of Oxford and Nuffield College."
+          subtitle: "I am a third year PhD (DPhil) student in Economics at the University of Oxford and Nuffield College. My research interests lie in macroeconomics and trade, with an emphasis on climate change."
           imageUrl: "picture-dacb.jpg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Daniel Barbosa
           buttons:
-            - name: Papers
+            - name: Research
               url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
+            # - name: Courses
+            #   url: courses/
+            # - name: Data
+            #   url: data/
+            # - name: Books
+            #   url: books/
+            # - name: Tags
+            #   url: tags/
+            # - name: Archive
+            #   url: archive/
             # - name: Blog
             #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
@@ -80,7 +80,7 @@ params:
         - name: cv
           url: cv-barbosa.pdf
         - name: Email
-          url: mailto:daniel.barbosa@geconomics.ox.ac.uk
+          url: mailto:daniel.barbosa@economics.ox.ac.uk
           # url: location/
         # - name: Office Hours
         #   url: officehours/
