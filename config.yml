@@ -1,5 +1,5 @@
 baseURL: "https://dacbarbosa.github.io/" 
-title: Moritz-Maria von Igelfeld
+title: Daniel A.C. Barbosa
 paginate: 20
 theme: PaperMod
 
@@ -54,12 +54,12 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
-          imageUrl: "picture.jpeg"
+          title: Daniel A.C. Barbosa
+          subtitle: "I am a third year PhD (DPhil) student in Economics at the University of Oxford and Nuffield College."
+          imageUrl: "picture-dacb.jpg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Moritz-Maria von Igelfeld
+          imageTitle: Daniel Barbosa
           buttons:
             - name: Papers
               url: papers/
@@ -73,30 +73,27 @@ params:
               url: tags/
             - name: Archive
               url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            # - name: Blog
+            #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: cv
-          url: cv.pdf
+          url: cv-barbosa.pdf
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
+          url: mailto:daniel.barbosa@geconomics.ox.ac.uk
+          # url: location/
+        # - name: Office Hours
+        #   url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?user=K5aOUegAAAAJ&hl
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
+          url: https://github.com/dacbarbosa
+        # - name: Substack
+        #   url: https://pmichaillat.substack.com
+        # - name: YouTube
+        #   url: https://www.youtube.com/@alexandermccallsmithoffici9000
         - name: Twitter
-          url: https://twitter.com/McCallSmith
+          url: https://twitter.com/barbosa_dac
 
     assets:
         disableScrollBarStyle: true
@@ -104,7 +101,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Daniel AC Barbosa"
       icon: favicon.ico
       iconHeight: 18
 
