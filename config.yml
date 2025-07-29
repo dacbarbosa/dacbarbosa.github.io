@@ -1,7 +1,11 @@
 baseURL: "https://dacbarbosa.github.io/" 
 title: Daniel A.C. Barbosa
-paginate: 20
+pagination:
+  pagerSize: 20
 theme: PaperMod
+
+ignoreLogs:
+  - warning-partial-superfluous-prefix
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -52,6 +56,8 @@ params:
           subtitle: "I am a PhD (DPhil) student in Economics at the University of Oxford and Nuffield College. \n
 
           My research interests lie on macroeconomics and trade, with an emphasis on climate change. \n
+
+          Previously, I worked as an Intern at the Inter-American Development Bank on topics related to Agricultural Productivity and Climate Change. Throughout my career, I have developed expertise in AI-assisted research and code development using tools like GitHub Copilot, Claude Code, and other modern AI platforms. \n
 
           \n Email: daniel [dot] barbosa [at] economics [dot] ox [dot] ac [dot] uk"
           imageUrl: "picture-dacb.jpg"

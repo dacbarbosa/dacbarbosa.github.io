@@ -5,7 +5,7 @@ lastmod: 2025-04-08
 tags: ["Police","Development","Technology","Field Experiment"]
 author: ["Thiemo Fetzer","Pedro CL Souza","Caterina Soto Vieira"]
 description: "This paper provides experimental evidence that using body-worn cameras (BWCs) for police monitoring improves police-citizen interactions." 
-summary: "[Conditionally Accepted at the Review of Economics and Statistics]. This paper provides experimental evidence that using body-worn cameras (BWCs) for police monitoring improves police-citizen interactions. We compare our results to the previous literatures by replicating their empirical strategy in our setting, finding attenuated effects." 
+summary: "**Conditionally Accepted at the Review of Economics and Statistics**. This paper provides experimental evidence that using body-worn cameras (BWCs) for police monitoring improves police-citizen interactions. We compare our results to the previous literatures by replicating their empirical strategy in our setting, finding attenuated effects." 
 cover:
     image: "cameras.jpg"
     alt: "Body Worn Cameras"
