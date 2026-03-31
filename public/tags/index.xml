@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Daniel Barbosa</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Daniel Barbosa</description>
+    <image>
+      <title>Daniel Barbosa</title>
+      <url>http://localhost:1313/photo-dacb.jpg</url>
+      <link>http://localhost:1313/photo-dacb.jpg</link>
+    </image>
+    <generator>Hugo -- 0.157.0</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Banking</title>
+      <link>http://localhost:1313/tags/banking/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/banking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Finance</title>
+      <link>http://localhost:1313/tags/finance/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/finance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Macroeconomics</title>
+      <link>http://localhost:1313/tags/macroeconomics/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/macroeconomics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Monetary Policy</title>
+      <link>http://localhost:1313/tags/monetary-policy/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/monetary-policy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Climate</title>
+      <link>http://localhost:1313/tags/climate/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/climate/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Energy Efficiency</title>
+      <link>http://localhost:1313/tags/energy-efficiency/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/energy-efficiency/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Housing</title>
+      <link>http://localhost:1313/tags/housing/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/housing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spatial Economics</title>
+      <link>http://localhost:1313/tags/spatial-economics/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/spatial-economics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development</title>
+      <link>http://localhost:1313/tags/development/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Field Experiment</title>
+      <link>http://localhost:1313/tags/field-experiment/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/field-experiment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Police</title>
+      <link>http://localhost:1313/tags/police/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/police/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>http://localhost:1313/tags/technology/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/technology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Monitoring</title>
+      <link>http://localhost:1313/tags/monitoring/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/monitoring/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trust</title>
+      <link>http://localhost:1313/tags/trust/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/trust/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

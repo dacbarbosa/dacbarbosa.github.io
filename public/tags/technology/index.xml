@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Technology on Daniel Barbosa</title>
+    <link>http://localhost:1313/tags/technology/</link>
+    <description>Recent content in Technology on Daniel Barbosa</description>
+    <image>
+      <title>Daniel Barbosa</title>
+      <url>http://localhost:1313/photo-dacb.jpg</url>
+      <link>http://localhost:1313/photo-dacb.jpg</link>
+    </image>
+    <generator>Hugo -- 0.157.0</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 08 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Monitoring Technology: The Impact of Body-Worn Cameras on Citizen-Police Interactions</title>
+      <link>http://localhost:1313/papers/paper1/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/paper1/</guid>
+      <description>Published in the Review of Economics and Statistics (2025).</description>
+    </item>
+  </channel>
+</rss>
