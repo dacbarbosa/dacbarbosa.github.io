@@ -1,2 +1,5 @@
 .DS_Store
-.hugo_build.lock
+.hugo_build.lockpublic/
+*.aux
+*.log
+*.out

@@ -1,4 +1,4 @@
 ---
-title: "Papers"
-description: "Preprints and articles by Professor Dr von Igelfeld."
+title: "Research"
+description: "Working papers and publications by Daniel A.C. Barbosa."
 ---

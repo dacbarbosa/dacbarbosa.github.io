@@ -1,11 +1,12 @@
 ---
 title: "Monitoring Technology: The Impact of Body-Worn Cameras on Citizen-Police Interactions" 
-date: 2023-12-01
+date: 2025-01-01
 lastmod: 2025-04-08
 tags: ["Police","Development","Technology","Field Experiment"]
 author: ["Thiemo Fetzer","Pedro CL Souza","Caterina Soto Vieira"]
-description: "This paper provides experimental evidence that using body-worn cameras (BWCs) for police monitoring improves police-citizen interactions." 
-summary: "**Conditionally Accepted at the Review of Economics and Statistics**. This paper provides experimental evidence that using body-worn cameras (BWCs) for police monitoring improves police-citizen interactions. We compare our results to the previous literatures by replicating their empirical strategy in our setting, finding attenuated effects." 
+status: "publication"
+description: "Published in the Review of Economics and Statistics (2025)."
+summary: "(with Thiemo Fetzer, Pedro CL Souza, and Caterina Soto Vieira). **Review of Economics and Statistics, 2025**. We provide experimental evidence that body-worn cameras for police monitoring improve police-citizen interactions, reducing use of force by 61.2% and negative interactions by 47.0%." 
 cover:
     image: "cameras.jpg"
     alt: "Body Worn Cameras"

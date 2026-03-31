@@ -38,7 +38,7 @@
 }
 
 .social-icons a:hover {
-    color: var(--nuffieldgreen);
+    color: var(--primary);
 }
 
 code {

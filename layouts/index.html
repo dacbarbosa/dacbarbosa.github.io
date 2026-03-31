@@ -1,0 +1,71 @@
+{{- define "main" }}
+
+<section class="hero">
+    <div class="hero-photo">
+        {{- with site.Params.profileMode }}
+        {{- $img := resources.Get .imageUrl }}
+        {{- if $img }}
+        <img draggable="false" src="{{ $img.Permalink }}" alt="{{ .imageTitle }}" title="{{ .imageTitle }}" />
+        {{- else }}
+        <img draggable="false" src="{{ .imageUrl | absURL }}" alt="{{ .imageTitle }}" title="{{ .imageTitle }}" />
+        {{- end }}
+        {{- end }}
+    </div>
+    <div class="hero-bio">
+        <h1>{{ site.Params.profileMode.title }}</h1>
+        <div class="hero-subtitle">{{ site.Params.profileMode.subtitle | markdownify }}</div>
+    </div>
+    <div class="hero-icons">
+        {{- range site.Params.socialIcons }}
+        <a href="{{ trim .url " " | safeURL }}" target="_blank" rel="noopener noreferrer me"
+            title="{{ (.title | default .name) | title }}">
+            {{ partial "svg.html" . }}
+        </a>
+        {{- end }}
+    </div>
+</section>
+
+<section class="research-home">
+    {{- $papers := where site.RegularPages "Section" "papers" }}
+
+    {{- $wip := where $papers "Params.status" "wip" }}
+    {{- if $wip }}
+    <h2>Work in Progress</h2>
+    {{- range $wip }}
+    <div class="research-item">
+        <a href="{{ .RelPermalink }}">
+            <h3>{{ .Title }}</h3>
+        </a>
+        <p class="research-summary">{{ .Params.summary | markdownify }}</p>
+    </div>
+    {{- end }}
+    {{- end }}
+
+    {{- $wp := where $papers "Params.status" "working-paper" }}
+    {{- if $wp }}
+    <h2>Working Papers</h2>
+    {{- range $wp }}
+    <div class="research-item">
+        <a href="{{ .RelPermalink }}">
+            <h3>{{ .Title }}</h3>
+        </a>
+        <p class="research-summary">{{ .Params.summary | markdownify }}</p>
+    </div>
+    {{- end }}
+    {{- end }}
+
+    {{- $pub := where $papers "Params.status" "publication" }}
+    {{- if $pub }}
+    <h2>Publications</h2>
+    {{- range $pub }}
+    <div class="research-item">
+        <a href="{{ .RelPermalink }}">
+            <h3>{{ .Title }}</h3>
+        </a>
+        <p class="research-summary">{{ .Params.summary | markdownify }}</p>
+    </div>
+    {{- end }}
+    {{- end }}
+</section>
+
+{{- end }}

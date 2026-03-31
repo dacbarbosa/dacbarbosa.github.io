@@ -1,5 +1,5 @@
-baseURL: "https://dacbarbosa.github.io/" 
-title: Daniel A.C. Barbosa
+baseURL: "https://dacbarbosa.github.io/"
+title: Daniel Barbosa
 pagination:
   pagerSize: 20
 theme: PaperMod
@@ -14,25 +14,17 @@ taxonomies:
     tag: tags
 
 menu:
-    main:
-        # - name: Books
-        #   url: books/
-        #   weight: 5 
-        - name: Home
-          url: /
-          weight: 1
-        - name: Research
-          url: papers/
-          weight: 2
+    main: []
 
 params:
-    description: "I am a PhD student in Economics at the University of Oxford and Nuffield College. My research interest lies on macroeconomics and climate change."
-    author: Daniel AC Barbosa
-    # googleAnalyticsID: "G-XXXXX"
+    description: "PhD candidate in Economics at the University of Oxford (Nuffield College). Research in macroeconomics, environmental economics, finance, and international economics."
+    author: Daniel A.C. Barbosa
+    images:
+      - "photo-dacb.jpg"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
-    disableThemeToggle: true
+    disableThemeToggle: false
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
@@ -41,7 +33,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["papers"]
     ShowRssButtonInSectionTermList: false
     ShowToc: false
     disableScrollToTop: true
@@ -50,64 +42,49 @@ params:
     UseHugoToc: true
     comments: false
     math: true
+    env: production
     profileMode:
           enabled: true
           title: Daniel A.C. Barbosa
-          subtitle: "I am a PhD (DPhil) student in Economics at the University of Oxford and Nuffield College. \n
+          subtitle: "PhD candidate in Economics at the University of Oxford and Nuffield College. \n
 
-          My research interests lie on macroeconomics and trade, with an emphasis on climate change. \n
+          My research focuses on macroeconomics, environmental and resource economics, finance, and international economics. \n
 
-          Previously, I worked as an Intern at the Inter-American Development Bank on topics related to Agricultural Productivity and Climate Change. Throughout my career, I have developed expertise in AI-assisted research and code development using tools like GitHub Copilot, Claude Code, and other modern AI platforms. \n
+          In Summer 2026, I will be joining the **Bank of England** as a PhD Intern at the **Monetary Policy Strategy Division**. \n
 
-          \n Email: daniel [dot] barbosa [at] economics [dot] ox [dot] ac [dot] uk"
-          imageUrl: "picture-dacb.jpg"
-          imageWidth: 160
-          imageHeight: 160
-          imageTitle: Daniel Barbosa
-          buttons:
-            - name: Research
-              url: papers/
-            # - name: Courses
-            #   url: courses/
-            # - name: Data
-            #   url: data/
-            # - name: Books
-            #   url: books/
-            # - name: Tags
-            #   url: tags/
-            # - name: Archive
-            #   url: archive/
-            # - name: Blog
-            #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+          [Download my CV](/cv-barbosa.pdf)"
+          imageUrl: "photo-dacb.jpg"
+          imageWidth: 320
+          imageHeight: 400
+          imageTitle: Daniel A.C. Barbosa
 
     socialIcons:
         - name: cv
           url: cv-barbosa.pdf
         - name: Email
           url: mailto:daniel.barbosa@economics.ox.ac.uk
-          # url: location/
-        # - name: Office Hours
-        #   url: officehours/
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=K5aOUegAAAAJ&hl
         - name: GitHub
           url: https://github.com/dacbarbosa
-        # - name: Substack
-        #   url: https://pmichaillat.substack.com
-        # - name: YouTube
-        #   url: https://www.youtube.com/@alexandermccallsmithoffici9000
-        - name: Twitter
-          url: https://twitter.com/barbosa_dac
+        - name: x
+          url: https://x.com/barbosa_dac
 
     assets:
         disableScrollBarStyle: true
+        favicon: "oxford-crest.png"
+        favicon16x16: "oxford-crest.png"
+        favicon32x32: "oxford-crest.png"
+        apple_touch_icon: "oxford-crest.png"
+        theme_color: "#002147"
+        msapplication_TileColor: "#002147"
     cover:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Daniel AC Barbosa"
-      icon: favicon.ico
-      iconHeight: 18
+      text: "Daniel Barbosa"
+      icon: oxford-crest.png
+      iconHeight: 48
 
 markup:
     goldmark:
@@ -115,7 +92,7 @@ markup:
             unsafe: true
     highlight:
         guessSyntax: true
-        style: autumn 
+        style: autumn
     tableOfContents:
         endLevel: 2
         ordered: false

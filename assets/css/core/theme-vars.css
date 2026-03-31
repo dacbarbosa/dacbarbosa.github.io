@@ -1,48 +1,49 @@
 :root {
-    --gap: 24px;
-    --content-gap: 20px;
-    --nav-width: 1024px;
-    --main-width: 720px;
-    --header-height: 44px;
+    /* Layout */
+    --gap: 28px;
+    --content-gap: 24px;
+    --nav-width: 1400px;
+    --main-width: 1200px;
+    --header-height: 80px;
     --footer-height: 70px;
     --radius: 8px;
-    --theme: rgb(255, 255, 255);
-    --entry: rgb(255, 255, 255);
+
+    /* Light mode: FT cream palette */
+    --theme: #FFF1E5;
+    --entry: #FFFFFF;
     --primary: #002147;
-    --secondary: rgb(108, 108, 108);
-    --tertiary: rgb(214, 214, 214);
-    --gray: rgb(165, 165, 165);
-    --content: rgb(30, 30, 30);
-    --code-block-bg: rgb(28, 29, 33);
-    --code-bg: rgb(245, 245, 245);
-    --border: rgb(238, 238, 238);
-    --darkpurple: #8e7bd0;
-    --midpurple:#c0b5e5;
-    --lightpurple: #e5e1f4;
-    --oxfordblue: #002147;
-    --nuffieldgreen: #0cb38b;
-    --semibold: 500;
-    --homesize: 16px;
-    --textsize: 18px;
-    --h1size: 25px;
-    --entrysize: 15px;
-    --headersize: 16px;
-    --footersize: 13px;
-    --lineheight: 1.45;
+    --secondary: #4A4A4A;
+    --tertiary: #E8D5C4;
+    --gray: #8B7D6B;
+    --content: #33302E;
+    --code-block-bg: #2A2520;
+    --code-bg: #F5E6D3;
+    --border: #E0D0C0;
+
+    /* Typography */
+    --semibold: 600;
+    --homesize: 20px;
+    --textsize: 20px;
+    --h1size: 32px;
+    --entrysize: 17px;
+    --headersize: 17px;
+    --footersize: 14px;
+    --lineheight: 1.6;
     --lineclamp: 8;
     --marginleft: 26px;
 }
 
 .dark {
-    --theme: rgb(29, 30, 32);
-    --entry: rgb(46, 46, 51);
-    --primary: rgb(218, 218, 219);
-    --secondary: rgb(155, 156, 157);
-    --tertiary: rgb(65, 66, 68);
-    --content: rgb(196, 196, 197);
-    --code-block-bg: rgb(46, 46, 51);
-    --code-bg: rgb(55, 56, 62);
-    --border: rgb(51, 51, 51);
+    --theme: #0D1B2A;
+    --entry: #1B2838;
+    --primary: #B8CCE0;
+    --secondary: #8899AA;
+    --tertiary: #243447;
+    --gray: #6B7D8E;
+    --content: #D4DDE6;
+    --code-block-bg: #0A1520;
+    --code-bg: #1B2838;
+    --border: #2A3A4A;
 }
 
 .list {
